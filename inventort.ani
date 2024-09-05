@@ -1,11 +1,6 @@
-[mysql]
-mysql.hawsdevops.online
+[local]
+localhost
 
-[backend]
-mysql.hawsdevops.online
-
-[frontend]
-mysql.hawsdevops.online
 
 [all:vars]
 ansible_user=ec2-user
